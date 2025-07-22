@@ -1,11 +1,11 @@
-// package service
+// package concurrent
 // @author: chenzhewei.97
 // @create date: 2025/7/22
 package concurrent
 
 import (
 	"context"
-	"github.com/chenzhewei97/Go-Impl-Countdownlatch/utils"
+	"github.com/Ryan1997-tongji/Go-Impl-Countdownlatch/utils"
 	"sync"
 )
 

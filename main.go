@@ -6,8 +6,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/chenzhewei97/Go-Impl-Countdownlatch/impl"
-	"github.com/chenzhewei97/Go-Impl-Countdownlatch/service"
+	"github.com/Ryan1997-tongji/Go-Impl-Countdownlatch/concurrent"
+	"github.com/Ryan1997-tongji/Go-Impl-Countdownlatch/impl"
 )
 
 func main() {
